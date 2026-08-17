@@ -1,0 +1,26 @@
+{
+  "name": "forex-notifier",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web",
+    "build:android": "eas build --platform android"
+  },
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.73.0",
+    "expo": "^50.0.0",
+    "expo-notifications": "^0.27.0",
+    "expo-task-manager": "^11.7.0",
+    "expo-background-fetch": "^12.0.0",
+    "react-native-timezone": "^1.0.0",
+    "dayjs": "^1.11.10"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0"
+  },
+  "private": true
+}
