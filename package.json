@@ -16,7 +16,6 @@
     "expo-notifications": "^0.27.0",
     "expo-task-manager": "^11.7.0",
     "expo-background-fetch": "^12.0.0",
-    "react-native-timezone": "^1.0.0",
     "dayjs": "^1.11.10"
   },
   "devDependencies": {
